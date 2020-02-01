@@ -1,0 +1,15 @@
+C:\Users\79853\source\repos\Diplomnaya\Diplomnaya\bin\Debug\Diplomnaya.exe.config
+C:\Users\79853\source\repos\Diplomnaya\Diplomnaya\bin\Debug\Diplomnaya.exe
+C:\Users\79853\source\repos\Diplomnaya\Diplomnaya\bin\Debug\Diplomnaya.pdb
+C:\Users\79853\source\repos\Diplomnaya\Diplomnaya\bin\Debug\EntityFramework.dll
+C:\Users\79853\source\repos\Diplomnaya\Diplomnaya\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\79853\source\repos\Diplomnaya\Diplomnaya\bin\Debug\EntityFramework.xml
+C:\Users\79853\source\repos\Diplomnaya\Diplomnaya\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\79853\source\repos\Diplomnaya\Diplomnaya\obj\Debug\Diplomnaya.Form1.resources
+C:\Users\79853\source\repos\Diplomnaya\Diplomnaya\obj\Debug\Diplomnaya.Properties.Resources.resources
+C:\Users\79853\source\repos\Diplomnaya\Diplomnaya\obj\Debug\Diplomnaya.csproj.GenerateResource.cache
+C:\Users\79853\source\repos\Diplomnaya\Diplomnaya\obj\Debug\Diplomnaya.csproj.CopyComplete
+C:\Users\79853\source\repos\Diplomnaya\Diplomnaya\obj\Debug\Diplomnaya.exe
+C:\Users\79853\source\repos\Diplomnaya\Diplomnaya\obj\Debug\Diplomnaya.pdb
+C:\Users\79853\source\repos\Diplomnaya\Diplomnaya\bin\Debug\Database1.mdf
+C:\Users\79853\source\repos\Diplomnaya\Diplomnaya\bin\Debug\Database1_log.ldf
